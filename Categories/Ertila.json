@@ -10,12 +10,12 @@
       "fileSize": "1.19 GB"
     },
     {
-      "title": "BIOMUTANT v1.7.0 & ALL DLC",
+      "title": "APICO v4.1.4",
       "uris": [
-        "magnet:?xt=urn:btih:70b34059fd7e8457045909f27c91a0bf305e4723&dn=biomutant-1.7.0-all-dlc&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.port443.xyz:6969/announce&tr=http://tracker3.itzmx.com:6961/announce&tr=udp://tracker.moeking.me:6969/announce&tr=http://vps02.net.orel.ru:80/announce&tr=http://tracker.openzim.org:80/announce&tr=udp://tracker.skynetcloud.tk:6969/announce&tr=https://1.tracker.eu.org:443/announce&tr=https://3.tracker.eu.org:443/announce&tr=http://re-tracker.uz:80/announce&tr=https://tracker.parrotsec.org:443/announce&tr=udp://explodie.org:6969/announce&tr=udp://tracker.filemail.com:6969/announce&tr=udp://tracker.nyaa.uk:6969/announce&tr=udp://retracker.netbynet.ru:2710/announce&tr=http://tracker.gbitt.info:80/announce&tr=http://tracker2.dler.org:80/announce"
+        "magnet:?xt=urn:btih:7f14556af2b82326458f2c88883a9ccdf0a00354&dn=APICO v4.1.4&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
       ],
-      "uploadDate": "2022-09-22T00:03:00.000Z",
-      "fileSize": "14.97 GB"
+      "uploadDate": "2024-06-27T00:03:00.000Z",
+      "fileSize": "323.21 MB"
     },
     {
       "title": "BIOMUTANT v1.7.0 & ALL DLC",
@@ -32,6 +32,54 @@
       ],
       "uploadDate": "2022-04-12T00:03:00.000Z",
       "fileSize": "25.13 GB"
+    },
+    {
+      "title": "Caveblazers v1.5.2a",
+      "uris": [
+        "magnet:?xt=urn:btih:10c59456d7f01006a937096a7516fe82dbd14b8e&dn=Caveblazers v1.5.2a&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2020-07-13T00:03:00.000Z",
+      "fileSize": "46.27 MB"
+    },
+    {
+      "title": "Cyber Knights: Flashpoint v0.1.0",
+      "uris": [
+        "magnet:?xt=urn:btih:a0ebb233e4caa13f082101f34aace7e77ee53a08&dn=Cyber Knights: Flashpoint&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2023-11-01T00:03:00.000Z",
+      "fileSize": "9.37 GB"
+    },
+    {
+      "title": "Indivisible v39986",
+      "uris": [
+        "magnet:?xt=urn:btih:c3b329d088b19d8171a8508010c91b2c9c72321c&dn=Indivisible v39986&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2019-11-30T00:03:00.000Z",
+      "fileSize": "5.21 GB"
+    },
+    {
+      "title": "Project Zomboid v41.78.16",
+      "uris": [
+        "magnet:?xt=urn:btih:bf49881e9d24d81d93f553c9b7aca3d1e1b8ddf0&dn=Project Zomboid v41.78.16&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2022-12-20T00:03:00.000Z",
+      "fileSize": "2.44 GB"
+    },
+    {
+      "title": "Space Menace v1.0.0",
+      "uris": [
+        "magnet:?xt=urn:btih:b13e2684fd955714748b86b7a5561fb832f1e327&dn=Space Menace&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2023-06-12T00:03:00.000Z",
+      "fileSize": "45.17 MB"
+    },
+    {
+      "title": "WorldBox - God Simulator v0.14.3",
+      "uris": [
+        "magnet:?xt=urn:btih:4394f1d5ab684d8713788f61b81d4f01f08fa090&dn=WorldBox - God Simulator v0.14.3&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2022-08-22T00:03:00.000Z",
+      "fileSize": "48.47 MB"
     },
     {
       "title": "InfraSpace v1.45.436",
